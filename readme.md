@@ -2,9 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Hi, I'm [Andre Staltz](http://staltz.com/).
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+I get a lot of questions by email and I don't find it fair that the answer by email isn't shared to the world. It's also not scalable since similar questions often get repeated by email. This way anyone can read the answer!
 
 -
 
@@ -12,8 +12,9 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 - Ensure your question hasn't already been answered.
 - Use a succinct title and description.
+- The simpler the question, the more likely I'll answer it.
+- Support questions are better asked on Stack Overflow on in Gitter chats.
 - Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
 - Be civil and polite.
 
 ### Links
