@@ -6,7 +6,7 @@ Hi, I'm [Andre Staltz](http://staltz.com/).
 
 I get a lot of questions by email and I don't find it fair that the answer by email isn't shared to the world. It's also not scalable since similar questions often get repeated by email. This way anyone can read the answer!
 
--
+- - -
 
 ### Guidelines
 
